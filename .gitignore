@@ -1,0 +1,8 @@
+# Data files (if they're huge, store them elsewhere)
+data/
+# Model weights if using Git LFS or storing externally
+models/
+# Temporary files, logs, outputs
+*.log
+*.tmp
+artifacts/
